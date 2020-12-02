@@ -1,0 +1,21 @@
+var options={
+    isStatic:false
+    restitution:0.3
+    friction:0.5
+    ddensity:1.2
+}
+
+var dustbin class
+
+function keyPressed(){
+    if (keyCode === UP_Arrow){
+        
+    }
+}
+
+
+
+
+function preload(){
+ Matter.Bodies.circle(x,y,radius,{optional},{maxSides})   
+}
